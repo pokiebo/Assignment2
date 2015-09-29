@@ -31,6 +31,6 @@ Time spent: `<22 hrs>`
 
 ### Walkthrough
 
-![Video Walkthrough](Yelp.gif)
+![Video Walkthrough](yelp.gif)
 
 
